@@ -1,1 +1,1 @@
-# Opprettet en readme.txt fil
+# Dette er en readme.txt fil
