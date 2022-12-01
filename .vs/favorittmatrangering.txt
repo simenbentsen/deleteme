@@ -1,3 +1,5 @@
 # Dette er en tekstfil hvor jeg rangerer favorittmat
 
+
+# 4: Sushi
 # 5: Taco
