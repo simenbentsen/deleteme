@@ -1,5 +1,6 @@
 # Dette er en tekstfil hvor jeg rangerer favorittmat
 
+# 1: Skalldyr
 # 2: Lasagne
 # 3: Pizza
 # 4: Sushi
