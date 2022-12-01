@@ -1,1 +1,0 @@
-# Dette er en readme.txt fil
